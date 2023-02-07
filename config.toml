@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [params]
   # footer = "The Marauders"
-  description = "Technical writer and user advocate"
+  description = "I'm Colin Nash, a technical writer and user advocate."
   avatarURL = "images/cnash-profile.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-m"
