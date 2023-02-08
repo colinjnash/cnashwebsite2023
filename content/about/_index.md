@@ -6,5 +6,15 @@ showTableOfContents: true
 
 # About
 
-Hello! I'm Colin, and I'm fortunate to have writing as a part of my every day life. I've had the privilege to document and explain concepts and procedures for a number of products across many industries. From aviation to cloud platforms, I enjoy taking complex topics and turning them into accessible and engaging content.
+Hello! I'm Colin. Welcome to my personal site. For the last few years, I've been working as a technical writer with a focus on new products that want to improve their user journeys. I've documented concepts and procedures for a number of products across many industries. From aviation to cloud platforms, I enjoy taking complex topics and turning them into accessible and engaging content.
+
+What I write is also varied: I've worked on internet copy, technical manuals, civil aviation manuals, and blogs. 
+
+I'm a firm believer that scalable, accessible documentation is a foundation of a successful product. I think documentation is a product. I also think that the key to successful documentation is listening to your users.
+
+In my spare time, I enjoy experimenting with music and programming; the results are probably best left to the imagination.
+
+## Contact me
+
+You can talk to me through [email](mailto:colinjnash@gmail.com) or [Linkedin](https://www.linkedin.com/in/colin-nash/). You can also say hello on the [Write the Docs network](https://www.writethedocs.org/slack/) on Slack.
 
