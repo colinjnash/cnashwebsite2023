@@ -16,5 +16,5 @@ In my spare time, I enjoy experimenting with music and programming; the results 
 
 ## Contact me
 
-You can talk to me through [email](mailto:colinjnash@gmail.com) or [Linkedin](https://www.linkedin.com/in/colin-nash/). You can also say hello on the [Write the Docs](https://www.writethedocs.org/slack/) community on Slack.
+You can connect with me through [email](mailto:colinjnash@gmail.com) or [Linkedin](https://www.linkedin.com/in/colin-nash/). You can also say hello on the [Write the Docs](https://www.writethedocs.org/slack/) community on Slack.
 

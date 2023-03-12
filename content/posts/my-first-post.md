@@ -49,5 +49,5 @@ No matter what soft skills, talents, and attitude bring to a position, most succ
 
 ## Conclusion
 
-Overall, remember that a layoff isn't a personal reflection of your skill, but rather a confluence of forces outside of your control. A company that doesn't see it that way is probably not a good fit for many people. To all those who have been affected by the tech layoffs, feel free to reach out if there's anything I can do.
+Overall, remember that a layoff isn't a reflection of your skills or abilities, but rather a confluence of forces outside of your control. A company that doesn't see it that way is probably not a good fit for many people. To all those who have been affected by the tech layoffs, feel free to reach out if there's anything I can do.
 
