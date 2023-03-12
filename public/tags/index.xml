@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Colin Nash</title>
+    <link>https://colinnash.ca/tags/</link>
+    <description>Recent content in Tags on Colin Nash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://colinnash.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://colinnash.ca/tags/blog/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinnash.ca/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://colinnash.ca/tags/personal/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinnash.ca/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technical writing</title>
+      <link>https://colinnash.ca/tags/technical-writing/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinnash.ca/tags/technical-writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://colinnash.ca/tags/website/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinnash.ca/tags/website/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

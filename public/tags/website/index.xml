@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Colin Nash</title>
+    <link>https://colinnash.ca/tags/website/</link>
+    <description>Recent content in website on Colin Nash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://colinnash.ca/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impostor syndrome: What to do after a layoff</title>
+      <link>https://colinnash.ca/posts/my-first-post/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://colinnash.ca/posts/my-first-post/</guid>
+      <description>The layoff In the fall of 2022, I decided to take a chance on a high-risk, high-reward startup venture. I felt I was shaking off the limitations of 2022. I had just completed a number of documentation milestones, and I was ready to take on some new challenges as a Content Strategist.
+Unfortunately, I was hired too early. The first few months I set up content pipelines, version controls, and initial look and feel for our SDK and API documentation.</description>
+    </item>
+    
+  </channel>
+</rss>
