@@ -36,7 +36,7 @@ Most technical writers or content creators I know don't love their portfolio. Th
 
 ### 3. It's all about fit
 
-No matter what soft skills, talents, and attitude bring to a position, most successful roles come down to one thing: fit. It's a hard but important truth. The title of technical writer can cover a wide spectrum of needs; a senior technical writer can cover an even wider range. Make sure you take the time to explore any new offer. A fit goes both ways, and it doesn't do anyone good to be misaligned on expectations. Some excellent high=level questions to ask a recruiter or hiring manager are the following:
+No matter what soft skills, talents, and attitude bring to a position, most successful roles come down to one thing: fit. It's a hard but important truth. The title of technical writer can cover a wide spectrum of needs; a senior technical writer can cover an even wider range. Make sure you take the time to explore any new offer. A fit goes both ways, and it doesn't do anyone good to be misaligned on expectations. Some excellent high-level questions to ask a recruiter or hiring manager are the following:
 
 1. What made you realize the need for this position?
 2. What does the daily routine of technical writer look like to you? What does the weekly routine look like?
