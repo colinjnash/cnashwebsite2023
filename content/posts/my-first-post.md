@@ -32,7 +32,7 @@ It's a fact: we're all good at something. My career in writing has crossed a var
 
 ### 2. Take time to review your growth
 
-Most technical writers or content creators I know don't love their portfolio. The embedded perfectionist in my brain always criticizes my work from the past, and it can't help but point out my failings, such as a sneaky typo or poorly strcutured sentence. These criticisms are usually removed from the context of that situation. Remember to take time to add some perspective to your work, and possibly add it as a commentary to your work. Things like tight deadlines, unrealistic expectations, and poor publishing tools can obscure the reality behind your work. Also, it's a great thing to feel like your old writing is outdated. It probably means that your writing style and composition has improved.
+Most technical writers or content creators I know don't love their portfolio. The embedded perfectionist in my brain always criticizes my work from the past, and it can't help but point out my failings, such as a sneaky typo or poorly structured sentence. These criticisms are usually removed from the context of that situation. Remember to include context when reviewing your work. Things like tight deadlines, unrealistic expectations, and poor publishing tools can obscure the reality behind your work. Also, it's a great thing to feel like your old writing is outdated. It probably means that your writing style and composition has improved.
 
 ### 3. It's all about fit
 
