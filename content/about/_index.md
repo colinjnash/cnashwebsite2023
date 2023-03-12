@@ -10,7 +10,7 @@ Hello! I'm Colin. Welcome to my personal site. For the last few years, I've been
 
 What I write is also varied: I've worked on internet copy, technical manuals, civil aviation manuals, and blogs. 
 
-I'm a firm believer that scalable, accessible documentation is a foundation of a successful product. I think documentation is a product. I also think that the key to successful documentation is listening to your users.
+I'm a firm believer that scalable, accessible documentation is a foundation of a successful product. I also think that documentation is its own product, and the key to great documentation is listening to and engaging with your users.
 
 In my spare time, I enjoy experimenting with music and programming; the results are probably best left to the imagination.
 
