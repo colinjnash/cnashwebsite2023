@@ -14,7 +14,7 @@ showTableOfContents: true
 
 In the fall of 2022, I decided to take a chance on a high-risk, high-reward startup venture. I felt I was shaking off the limitations of 2022. I had just completed a number of documentation milestones, and I was ready to take on some new challenges as a Content Strategist. 
 
-Unfortunately, I was hired too early. The first few months I set up content pipelines, version controls, and initial look and feel for our SDK and API documentation. Then came the writing. I looked for content, but unfortunately everything was still in its infancy. Essentially, I was trying to document a moving target on a project that was still growing and adapting. Work slowed to a crawl. I felt like I wasn't pulling my weight. Eventually, I had a difficult conversation with the founders. During a review, I felt I had to be honest.
+Unfortunately, I was hired too early. The first few months I set up content pipelines, version controls, and the initial look and feel for our SDK and API documentation. Then came the writing. I looked for content, but unfortunately everything was still in its infancy. Essentially, I was trying to document a moving target on a project that was still growing and adapting. Work slowed to a crawl. I felt like I wasn't pulling my weight. Eventually, I had a difficult conversation with the founders. During a review, I felt I had to be honest.
 
 I said flatly, "I'm just not bringing you the value you deserve."
 
