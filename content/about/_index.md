@@ -3,10 +3,10 @@ title: "About"
 type: "page"
 showTableOfContents: true
 ---
-
-# About
-
 Hello! I'm Colin. Welcome to my personal site. For the last few years, I've been working as a technical writer with a focus on new products that want to improve their user journeys. I've documented concepts and procedures for a number of products across many industries. From aviation to cloud platforms, I enjoy taking complex topics and turning them into accessible and engaging content.
+
+
+![Me in Greenland](../images/cnash-about.png)
 
 What I write is also varied: I've worked on internet copy, technical manuals, civil aviation manuals, and blogs. 
 
@@ -16,5 +16,5 @@ In my spare time, I enjoy experimenting with music and programming; the results 
 
 ## Contact me
 
-You can talk to me through [email](mailto:colinjnash@gmail.com) or [Linkedin](https://www.linkedin.com/in/colin-nash/). You can also say hello on the [Write the Docs network](https://www.writethedocs.org/slack/) on Slack.
+You can talk to me through [email](mailto:colinjnash@gmail.com) or [Linkedin](https://www.linkedin.com/in/colin-nash/). You can also say hello on the [Write the Docs](https://www.writethedocs.org/slack/) community on Slack.
 
