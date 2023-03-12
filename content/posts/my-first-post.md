@@ -18,7 +18,7 @@ Unfortunately, I was hired too early. The first few months I set up content pipe
 
 I said flatly, "I'm just not bringing you the value you deserve."
 
-It wasn't easy to do. I thoroughly enjoyed the product and working with the founders, but I realized I was taking up too many resources from such a young company. The team needed more developers, as there just wasn't enough content to work on. If I stayed, I'd be a hindrance to the company. In the end, we agreed that the position wasn't needed, but I had managed to keep a great reputation and future client for freelance work. Still, after taking a core role at the company (and leaving an excellent one), it was a tough pill to swallow.
+It wasn't easy to do. I thoroughly enjoyed the product and working with the founders, but I realized I was taking up too many resources from such a young company. The team needed more developers, as there just wasn't enough content to work on. If I stayed, I'd be a hindrance to the company. In the end, we agreed that the position wasn't needed, but I had managed to keep a great reputation and future client for freelance work. Still, after leaving an excellent company to take a core role at this one, it was a tough pill to swallow.
 
 After that initial rejection, a flurry of thoughts entered my mind at night. Did I get it all wrong? Am I that good at my job? How did I not realize this before I took the job? I felt dejected; impostor syndrome had its grips on my mind and wasn't letting go. 
 
