@@ -1,8 +1,8 @@
 ---
 title: "Impostor syndrome: What to do after a layoff"
 date: 2023-03-12
-description: "Know the difference between knowing your value and your value to a company or team."
-tags: ["technical writing", "blog", "personal", "website"]
+description: "Impostor syndrome during a layoff: 3 tips on how to reframe."
+tags: ["technical writing", "blog", "personal", "website", "layoff", "2023 layoffs"]
 image: "/images/amongusimpostor.png"
 type: post
 weight: 25
