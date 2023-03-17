@@ -16,14 +16,14 @@ Here is a list of some pages, samples, or projects I've worked on.
 
 Unfortunately all of my aviation documentation is behind the veil of strict non-disclosure agreements (NDA). But I *can* provide links to the type of work you would expect. Aviation writing usually follows three core rules:
 
-1. Word usage is limited and very prescriptive.
+1. Word usage is limited and follows ASD-STE100 standards.
 2. All changes must be tracked, no matter how small.
 3. All work must follow a strict schema or information architecture.
 ### Specifications
 
 The following are some examples of specifications I've used during my time in the aviation industry:
 
-- [The ASD-STE100](https://robertobertuol.com/wp-content/uploads/2018/08/ASD-STE100-ISSUE-7.pdf) defines all writing specifications for most technical documentation.
+- [The ASD-STE100](https://robertobertuol.com/wp-content/uploads/2018/08/ASD-STE100-ISSUE-7.pdf) defines all writing specifications for most technical documentation in the aviation and aerospace industries.
 - [S1000D](https://s1000d.org/?page_id=101) Another specification for technical publications. In use for mostly maintenance manuals and items that might have multiple variants to allow for modular content when producing publications. Uses "data modules", which might bring happiness or despair to the face of a technical writer, depending on their experience with the specification.
 - [iSpec2200](https://publications.airlines.org/CommerceHomepage.aspx): Also known as the ATA Standard Numbering System. These manuals outline the requirements and structure for producing documentation for an Aircraft Flight Manual (AFM) or an Aircraft Maintenance Manual (AMM).
 
