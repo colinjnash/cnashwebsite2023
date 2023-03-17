@@ -25,7 +25,7 @@ The following are some examples of specifications I've used during my time in th
 
 - [The ASD-STE100](https://robertobertuol.com/wp-content/uploads/2018/08/ASD-STE100-ISSUE-7.pdf) defines all writing specifications for most technical documentation.
 - [S1000D](https://s1000d.org/?page_id=101) Another specification for technical publications. In use for mostly maintenance manuals and items that might have multiple variants to allow for modular content when producing publications. Uses "data modules", which might bring happiness or despair to the face of a technical writer, depending on their experience with the specification.
-- [ispec2200](https://publications.airlines.org/CommerceHomepage.aspx): Also known as the ATA Standard Numbering System. These manuals outline the requirements and structure for producing documentation for an Aircraft Flight Manual (AFM) or an Aircraft Maintenance Manual (AMM).
+- [iSpec2200](https://publications.airlines.org/CommerceHomepage.aspx): Also known as the ATA Standard Numbering System. These manuals outline the requirements and structure for producing documentation for an Aircraft Flight Manual (AFM) or an Aircraft Maintenance Manual (AMM).
 
 ### Examples
 
